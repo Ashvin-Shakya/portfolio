@@ -66,10 +66,6 @@ const technologies = [
     icon: html,
   },
   {
-    name: "CSS 3",
-    icon: css,
-  },
-  {
     name: "JavaScript",
     icon: javascript,
   },
@@ -92,14 +88,6 @@ const technologies = [
   {
     name: "Git",
     icon: git,
-  },
-  {
-    name: "Docker",
-    icon: docker,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
   },
 ];
 
