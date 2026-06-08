@@ -47,7 +47,11 @@ const services = [
     icon: backend,
   },
   {
-    title: "Video Editor & UI/UX Designer",
+    title: "Video Editor",
+    icon: creator,
+  },
+  {
+    title: "UI/UX Designer",
     icon: creator,
   },
   {
