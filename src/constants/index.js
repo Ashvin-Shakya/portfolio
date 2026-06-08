@@ -66,10 +66,6 @@ const technologies = [
     icon: html,
   },
   {
-    name: "JavaScript",
-    icon: javascript,
-  },
-  {
     name: "React JS",
     icon: reactjs,
   },
