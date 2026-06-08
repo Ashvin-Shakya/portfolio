@@ -7,7 +7,7 @@ const Stars = (props) => {
   const ref = useRef();
 
   const sphere = random.inSphere(
-    new Float32Array(6000), // multiple of 3
+   new Float32Array(400), // multiple of 3
     { radius: 1.2 }
   );
 
